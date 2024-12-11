@@ -1,0 +1,5 @@
+.idea
+
+./host/node_modules
+./remote/node_modules
+./vue-remote/node_modules
